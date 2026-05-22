@@ -53,7 +53,7 @@ GEO VISIBILITY REPORT  ·  modelo: claude-sonnet-4-6
 Queries analizadas: 7
 ================================================================
 
-🎯 Target: patagrowth.com
+🎯 Target: codridge.dev
    Apariciones: 2/7  (28.6%)
    Queries ganadas:
      ✓ Odoo REST API authentication with API token tutorial
