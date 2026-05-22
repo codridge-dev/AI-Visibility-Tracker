@@ -116,3 +116,7 @@ Para un análisis típico de 20 queries con Sonnet: aproximadamente **USD 0.30 �
 ## Licencia
 
 MIT
+
+---
+
+Creado por [Agencia SEO Chile · Ridgeseo](https://ridgeseo.com)
